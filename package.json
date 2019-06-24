@@ -1,7 +1,7 @@
 {
   "name": "liqd-ipc",
   "description": "NodeJS Cluster/WorkerThread IPC",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/ipc.js",
@@ -24,7 +24,7 @@
     "liqd"
   ],
   "dependencies": {
-    "liqd-cache": "^1.0.3",
+    "liqd-cache": "^1.0.4",
     "liqd-flow": "^1.2.8",
     "liqd-timed-promise": "^1.2.4"
   },
